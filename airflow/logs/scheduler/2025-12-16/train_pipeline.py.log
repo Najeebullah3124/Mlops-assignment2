@@ -1,0 +1,28 @@
+[2025-12-16T07:19:44.855+0000] {processor.py:161} INFO - Started process (PID=167) to work on /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:19:44.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/train_pipeline.py for tasks to queue
+[2025-12-16T07:19:44.857+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:19:44.857+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:19:45.353+0000] {processor.py:840} INFO - DAG(s) 'train_pipeline' retrieved from /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:19:45.440+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:19:45.440+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:train_pipeline
+[2025-12-16T07:19:45.443+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:19:45.443+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:train_pipeline
+[2025-12-16T07:19:45.444+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:19:45.444+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:train_pipeline
+[2025-12-16T07:19:45.444+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:19:45.444+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-12-16T07:19:45.447+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:19:45.447+0000] {dag.py:3118} INFO - Creating ORM DAG for train_pipeline
+[2025-12-16T07:19:45.450+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:19:45.450+0000] {dag.py:3954} INFO - Setting next_dagrun for train_pipeline to 2025-12-15 00:00:00+00:00, run_after=2025-12-16 00:00:00+00:00
+[2025-12-16T07:19:45.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/train_pipeline.py took 0.604 seconds
+[2025-12-16T07:20:15.687+0000] {processor.py:161} INFO - Started process (PID=189) to work on /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:20:15.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/train_pipeline.py for tasks to queue
+[2025-12-16T07:20:15.691+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:20:15.691+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:20:39.028+0000] {processor.py:161} INFO - Started process (PID=167) to work on /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:20:39.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/train_pipeline.py for tasks to queue
+[2025-12-16T07:20:39.030+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:20:39.030+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:20:39.560+0000] {processor.py:840} INFO - DAG(s) 'train_pipeline' retrieved from /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:20:39.648+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:20:39.648+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-12-16T07:20:39.655+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:20:39.655+0000] {dag.py:3954} INFO - Setting next_dagrun for train_pipeline to 2025-12-15 00:00:00+00:00, run_after=2025-12-16 00:00:00+00:00
+[2025-12-16T07:20:39.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/train_pipeline.py took 0.639 seconds
+[2025-12-16T07:21:09.954+0000] {processor.py:161} INFO - Started process (PID=189) to work on /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:21:09.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/train_pipeline.py for tasks to queue
+[2025-12-16T07:21:09.957+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:21:09.957+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:21:10.466+0000] {processor.py:840} INFO - DAG(s) 'train_pipeline' retrieved from /opt/airflow/dags/train_pipeline.py
+[2025-12-16T07:21:10.478+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:21:10.478+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-12-16T07:21:10.484+0000] {logging_mixin.py:188} INFO - [2025-12-16T07:21:10.484+0000] {dag.py:3954} INFO - Setting next_dagrun for train_pipeline to 2025-12-15 00:00:00+00:00, run_after=2025-12-16 00:00:00+00:00
+[2025-12-16T07:21:10.489+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/train_pipeline.py took 0.546 seconds

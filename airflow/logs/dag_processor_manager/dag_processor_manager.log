@@ -1,0 +1,42 @@
+[2025-12-16T07:19:44.813+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T07:19:44.813+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T07:19:44.814+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T07:19:44.814+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T07:19:44.817+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-12-16T07:19:44.961+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/train_pipeline.py    167  0.12s             0           0
+================================================================================
+[2025-12-16T07:20:15.136+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_pipeline.py                           1           0  0.62s           2025-12-16T07:19:45
+================================================================================
+[2025-12-16T07:20:38.957+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-12-16T07:20:38.958+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-12-16T07:20:38.959+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-12-16T07:20:38.960+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-12-16T07:20:38.968+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-12-16T07:20:39.132+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/train_pipeline.py    167  0.12s             0           0
+================================================================================
+[2025-12-16T07:21:09.397+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_pipeline.py                           1           0  0.65s           2025-12-16T07:20:39
+================================================================================
